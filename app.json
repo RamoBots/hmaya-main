@@ -1,7 +1,7 @@
 {
   "name": "your-app-name",
   "description": "Your app description",
-  "repository": "https://github.com/modymesourceze/hemaya",
+  "repository": "https://github.com/RamoBots/hmaya-main.git",
   "buildpacks": [
     {
       "url": "heroku/python"
