@@ -1,0 +1,26 @@
+{
+	"name": "your-app-name",
+	"description": "https://github.com/modymesourceze/hemaya",
+	"logo": "https://graph.org/file/075d704905c13fd00c9d9.jpg",
+	"keywords": [
+		"telegram",
+		"bot",
+		"python",
+		"telethon"
+	],
+	"repository": "https://github.com/modymesourceze/AL-QURAN",
+    "env": {
+        "ELHYBA": {
+            "description": "Your Telegram Bot Token from @BotFather",
+            "value": ""            
+	   }
+	},
+	"buildpacks": [
+		{
+			"url": "heroku/python"
+		}
+	]
+}
+
+
+
